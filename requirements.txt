@@ -31,3 +31,4 @@ sqlalchemy==1.4.3
 webassets==2.0
 werkzeug==0.16.1
 wtforms==2.3.3
+dnspython>=2.6.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
